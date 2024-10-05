@@ -7,4 +7,4 @@ setup integration between docker desktop and windows wsl(ubuntu distro) if you a
 1. create DevOps-Project-1 directory
 2. create the devcontainer configuration json
 3. make DevOps-project-1 folder/directory a git repo
-5. setup github 
+5. create devops-project-1 repo in github and setup git remote with url "git remote add origin https://github.com/nkarumanchi27/devops-project-1.git"
